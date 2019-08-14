@@ -2,6 +2,6 @@
 layout: default
 ---
 
-![Logo](/assets/images/logo.png) Contact information coming soon!
+![Logo](/assets/images/logo.png) 
 
-Other information that should be rendered
+## Contact information coming soon!
