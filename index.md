@@ -2,6 +2,5 @@
 layout: default
 ---
 
-![Logo](/assets/images/logo.png) 
-
-## Contact information coming soon!
+## Contact Information Coming Soon!
+{: text-align: center;"}
