@@ -2,5 +2,6 @@
 layout: default
 ---
 
-## Contact Information Coming Soon!
+Contact Information Coming Soon!
+--------------------------------
 {: text-align: center;"}
