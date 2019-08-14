@@ -1,10 +1,4 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-#header {
-  margin-top: -80px;
-  height: 0px;
-  position: fixed;
-}
+@import "jekyll-theme-midnight";
