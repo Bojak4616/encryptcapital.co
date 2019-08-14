@@ -3,5 +3,4 @@ layout: default
 ---
 
 Contact Information Coming Soon!
---------------------------------
-{: text-align: center;"}
+{: text-align: center;}
